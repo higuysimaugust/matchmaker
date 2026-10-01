@@ -2,7 +2,7 @@
     "name": "august.matchmaker",
     "displayName": "Matchmaker",
     "version": "1.0.0",
-    "description": "Join Matchmaking/Ranked servers or auto-find yourself!",
+    "description": "Join Matchmaking/Ranked servers manually",
     "main": "main.luau",
     "keywords": [
         "matchmaking",
