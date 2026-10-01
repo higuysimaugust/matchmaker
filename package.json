@@ -1,0 +1,14 @@
+{
+    "name": "august.matchmaker",
+    "displayName": "Matchmaker",
+    "version": "1.0.0",
+    "description": "Join Matchmaking/Ranked servers or auto-find yourself!",
+    "main": "main.luau",
+    "keywords": [
+        "matchmaking",
+        "ranked",
+        "autofind"
+    ],
+    "author": "august",
+    "url": "https://github.com/higuysimaugust/matchmaker.git"
+}
